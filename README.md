@@ -2,16 +2,16 @@
 ## Python3 Script Version by Ex10is0n
 ### How to Use
 
-Easily type `python3 game-of-life.py [life file]` or `python3 game-of-life.py` in the shell
+Easily type `./gol [life file]` or `./gol` in the shell
 
 Mentions that the second command to open `game-of-life` needs `vim` installed
 
 ```
-$ python3 game-of-life.py [life file]
+$ ./gol [life file]
 
 # such as
 
-$ python3 game-of-life.py test1.life
+$ ./gol test1.life
 Game of Life Simulator (Version 0.1)
 Type "help" to open manual, "q" to exit
 
